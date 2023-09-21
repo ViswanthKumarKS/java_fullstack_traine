@@ -4,4 +4,12 @@
 4.And learned about the networking topics
              1.TCP 
              2.UDP 
-5.I learned about new thing DNS(DOMAIN NAME SYSTEM)
+5.I learned about new thing DNS(DOMAIN NAME SYSTEM).
+6.I learned about API and contain three types
+          1.REST
+          2.GRAPHICAL
+          3.GRC 
+7.IN rest contain Get,post,put,delete
+8.And i learned about the CDN(CONTENT  DELIVERY NETWORK)
+9.Later i install the github and create the account
+10.and i commit and push the code.
