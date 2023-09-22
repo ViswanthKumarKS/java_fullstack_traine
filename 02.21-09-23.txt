@@ -1,0 +1,16 @@
+Html
+  -Basic html tags
+  -input tags like button,date,email,pasword,select'
+  -table tags like table header,table footer,list and merge of tables.
+  -div tag and rows tags and columspan and row spam
+  -span and paragraph tags.
+
+CSS
+   -types of css styles
+   -selectors and background image
+   -padding and margin and text shadowing
+   -flex directions
+   -justify content and align items
+   -align self
+   -connection to html and css and link tag
+   -
