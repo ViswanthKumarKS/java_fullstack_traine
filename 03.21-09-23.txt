@@ -1,0 +1,10 @@
+1.Develop the front end web page using html and css.
+2.Develop the prime page and it can be work on it.
+3.create the div and cut the two divs and later i create the one div for the work.
+4.And i create the code and justify content and align-center.
+5.i learn the how to flex the image and how to connect the css styling.
+6.Later i work on the facebook login page.
+7.so first i learned the how  to create the html inputs and how to create the email and password.
+8.later learned the difference betweeen the px and % in image sizing.
+9.create the image and login website using html
+10.So i learned about the today how to build the frontend page.
