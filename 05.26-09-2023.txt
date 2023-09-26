@@ -1,0 +1,14 @@
+1.Today i learned about the bootstrap and how the bootstrap.
+2.And i learn the some topics in javascript
+   -opertors
+   -variables
+   -datatypes
+   -functions
+   -maps
+   -slides
+   -conitional statements
+   -loop statemments
+   -promise(resolve and reject)
+3.i build the bootstrap website.
+4.And i build the nav bar and flipcart using cards.
+5.later i build the table and footer table.
