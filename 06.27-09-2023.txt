@@ -1,0 +1,7 @@
+1.Today i learn about the small website build using javascript.
+2.We done the task from javascript in the work.
+3.I can work from javascript and the bootstrap.
+4.In bootstrap i learned about the connection of html and bootstrap pages.
+5.And i learned about how to add,edit,delete using javascript.
+6.I learned about new keyword render which is useful for me most.
+7.In the javascript i learned some syntaxs and some basics
