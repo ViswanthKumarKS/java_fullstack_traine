@@ -1,0 +1,12 @@
+1.Today i have done the 5 javascript tasks
+    -add two numbers and print the output
+    -convert cm to meters.
+    -Calcualate the emi of the monthly.
+    -calcualate the division.
+    -And i done the conversion of text from one colour to another by clicking.
+2.And i have learned the build of e-commerce website.
+     -create the adimn login in page.
+     -create the cart.
+     -create the product_details page.
+     -create the login and logout.
+3.I learned new things from javascript tasks.
