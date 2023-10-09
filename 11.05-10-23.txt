@@ -1,0 +1,6 @@
+I learned about the how to add orders in home page and how to change the status of the products in delievery page.
+And i worked on the how orders will be added in one product and increase the products.
+how it will be change the products from the admin page.
+later finish the products  i create a one repository of e-commerce.
+After creating the repository i push the code files and everything and add the e-commerce infront of every path.
+And finally push the code and checked it working or not.
