@@ -1,0 +1,6 @@
+Today i build the e-commerce some major steps.
+       -Add to products in home page.
+       -Add to products in cart page and load the products in cart page.
+       -Add to products in home page.
+       -And add edit and delete the functionality in admin page.
+i learn about the products in home page and how to add products in admin page and how to delete and edit the products.
