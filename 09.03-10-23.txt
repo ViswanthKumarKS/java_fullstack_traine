@@ -1,0 +1,7 @@
+Today i learned built the html and css of the E-commerce.
+And i learned about the  basic build of e-commerce in the javascript.
+    -Login page
+    -Signup page
+    -Index page.
+And i have learned the build of login page.
+later build of signup and Index page.
