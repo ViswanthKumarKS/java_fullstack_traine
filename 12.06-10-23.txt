@@ -1,0 +1,13 @@
+After completing the e-commerce website and we worked on two things.
+      -increase the product Quantity.
+      -create the from validation.
+To increase the product Quantity.
+     -We create the one html page and add the products in index page.
+     -And create the cart page.
+     -After creating the cart page we can work in cart page and increase the Quantity by clicking.
+And the valid from 
+  -name
+  -email
+  -phonenumber
+  -create the button 
+  -create the button in dropdown.
