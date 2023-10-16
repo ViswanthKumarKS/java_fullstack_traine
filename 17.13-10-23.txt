@@ -1,0 +1,21 @@
+Today i learned about the routing and routerLink in angular.
+And i learned about todo application using services and provide 2 tasks
+
+Task-1
+    -sign in page
+    -signup page
+    -Navbar 
+    -Home page
+    -cart page
+    -Orders page
+    And built this ui in angular using routerLink
+
+Tak-2
+ using three inputs
+     -name
+     -email
+     -phone number
+build a todo application using three buttons
+     -add
+     -edit
+     -Delete in angular only using component.ts not using services.
