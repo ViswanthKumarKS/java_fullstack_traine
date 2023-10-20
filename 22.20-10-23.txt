@@ -1,0 +1,90 @@
+---JAVA CONCEPTS----
+-Given out of range of integer value it shows the error out of range.
+-we can enter only one character in char
+-And float end with 'f' otherwise it becomes error.
+-Double becomes error if it not ends with 'd'
+-In array we can declare the syntax
+         int a[]={};
+-in array we can print int,float,double,string,boolean it shows the output its address but char prints its array output
+-in array we can create the array syntax
+      int a1[]=new int[20];
+     size can be entered into the new int only.
+-Declare the arrays in index only like a[0],a[1]
+-in and operator both the conditions is satisifed only the condition is executed or the other condition is executed.
+-In and operator if first condition is false no need to check second condition.
+-In or opeartor any one condition is satisifed is executed the condition.
+
+----ATM MACHINE CONCEPT-----
+    1.CHECK BALANCE
+    2.WITHDRAW
+    3.DEPOIST
+    4.EXIT
+    REFERAL Code
+    import java.util.Scanner;
+
+public class Main {
+  private static double balance = 1000.0; // Initial balance
+
+  public static void main(String[] args) {
+    Scanner scanner = new Scanner(System.in);
+
+    int choice;
+    do {
+      System.out.println("-------WELCOME TO ATM MACHINE---------");
+      System.out.println("1. Check Balance");
+      System.out.println("2. Withdraw");
+      System.out.println("3. Deposit");
+      System.out.println("4. Exit");
+      System.out.print("Enter your choice: ");
+      choice = scanner.nextInt();
+
+      switch (choice) {
+        case 1:
+          checkBalance();
+          break;
+        case 2:
+          withdrawFunds(scanner);
+          break;
+        case 3:
+          depositFunds(scanner);
+          break;
+        case 4:
+          System.out.println("Exiting the ATM. Have a nice day!");
+          break;
+        default:
+          System.out.println("Invalid choice. Please try again.");
+      }
+    } while (choice != 4);
+  }
+
+  public static void checkBalance() {
+    System.out.println("Your balance is: $" + balance);
+  }
+
+  public static void withdrawFunds(Scanner scanner) {
+    System.out.print("Enter the amount to withdraw: $");
+    double amount = scanner.nextDouble();
+
+    if (amount <= balance) {
+      balance -= amount;
+      System.out.println("Withdrawn: $" + amount);
+      System.out.println("Remaining balance: $" + balance);
+    } else {
+      System.out.println("Insufficient funds.Please Check u r Balance");
+    }
+  }
+
+  public static void depositFunds(Scanner scanner) {
+    System.out.print("Enter the amount to deposit: $");
+    double amount = scanner.nextDouble();
+
+    if (amount > 0) {
+      balance += amount;
+      System.out.println("Deposited: $" + amount);
+      System.out.println("Updated balance: $" + balance);
+    } else {
+      System.out.println("Invalid deposit amount. Please try again.");
+    }
+  }
+}
+   
