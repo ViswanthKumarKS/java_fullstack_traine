@@ -1,0 +1,53 @@
+Java E-Commerce
+~~~~~~~~~~~~~~~
+ 
+From Admin side,
+----------------
+1.Admin login:
+    In this project i have used 1 admin where i can login with the following credentials.
+    Email: "admin@admin.com"
+    Password: "admin"
+ 
+2.Admin home page:
+    After login, it will be navigated to the home page.
+    In home page, there will be 6 options like,
+    * Add product
+        Here the admin can able to add new product.
+    * Show product
+        Here the entire products will be shown.
+    * Delete product
+        Here the admin can delete the product with the product id.
+    * Show users
+        Here the admin can view all the users stored in the users.csv file.
+    * Show orders
+        Here the admin can get all the orders stored in the csv files.
+    * Logout
+        After logging out, it will be navigated to the authentication page.
+ 
+3.Pushed the application in github and created readme file in github.
+ 
+Practiced in dates without using Java 8
+---------------------------------------
+1.Adding particular days to the current date.
+    Example:
+        18/11/2001 + 10 days = 28/11/2001
+ 
+2.Comparing Date with String
+    Example:
+        18/11/2001 == "18/11/2001"
+ 
+3.Subtracting date from date
+    Example:
+        18/11/2001 - 10/11/2001 = 8 days
+ 
+4.Changing date format
+    Example:
+        18/11/2001 to 2001.11.18
+ 
+5.Comparing after changing the date format
+    Example:
+        18/11/2001 == 2001.11.18
+ 
+6.Adding months to the particular date and get the output
+    Example:
+        18/01/2001 + 10 months = 18/11/2001
