@@ -1,0 +1,34 @@
+Loan Approval and Mangament System
+--------------------------------------
+
+    *Started with backend part of the project by creating the following 
+
+        -> Models 
+
+            - User (Admin, User)
+
+            - Account
+
+            - Document
+
+            -  DocumentType
+
+            - Loan
+
+            - Notification
+
+            -ViewStatus
+
+        -> Controller 
+
+        -> Request and Response Model
+
+        -> Security configuration 
+
+        -> Exception 
+
+        -> Service 
+
+        -> DTO 
+
+        -> Data loader 
