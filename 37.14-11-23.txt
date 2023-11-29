@@ -1,4 +1,4 @@
-Loan Approval and Mangament System
+Loan Mangament System 
 --------------------------------------
 
     *Started with backend part of the project by creating the following 
@@ -7,18 +7,15 @@ Loan Approval and Mangament System
 
             - User (Admin, User)
 
-            - Account
+            - 
+
+            - Account details 
+
+            -  Loan
 
             - Document
 
-            -  DocumentType
-
-            - Loan
-
-            - Notification
-
-            -ViewStatus
-
+            
         -> Controller 
 
         -> Request and Response Model

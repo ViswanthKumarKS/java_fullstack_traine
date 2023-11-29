@@ -1,0 +1,15 @@
+Loan Approval and managmenet System 
+--------------------------------------
+    *Continued with the backend part of the project 
+        -> Controller
+            - User  end points 
+                1. GET 
+                2. POST 
+                3. PUT
+            
+            - Account Details  
+                1. GET all user in admin Side
+          - Loan Details  
+          1. GET all user in admin Side
+          -Document Details
+          1. GET all user in admin Side
