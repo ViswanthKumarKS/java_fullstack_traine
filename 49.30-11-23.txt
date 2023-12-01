@@ -1,0 +1,13 @@
+Loan Approval and management System
+
+Yet to complete the ui design 
+  ->Login page
+  ->Register page 
+  ->User Home page
+  ->Account details add lottie and add new Account
+  ->Loan application also add lottie and new loan application
+  ->Document upload and view the document and download the document in the another window and view the document
+
+  Challenges
+  --View the document in another window after download the documents
+  

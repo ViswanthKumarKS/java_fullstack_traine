@@ -1,0 +1,23 @@
+Loan approval and managemnt System------
+
+And readme fill of the projects
+  ->Project name-loan approval and management system
+  ->Description-loan Approval  website 
+  ->Username:user password:user role:User
+    Username:admin password:admin role:Admin
+    Username:Viswanth password:1234 role:User
+ ->Technologies
+   Front end -Html,css,angular,js,ts
+   Backend-Spring boot,My sql ,java
+ ->
+Reposititory link of the front end:
+https://github.com/ViswanthKumarKS/Loan_project
+Reposititory link of the back end:
+https://github.com/ViswanthKumarKS/Loan_Project_Backend
+
+-->prepare the demo video of the project
+Link:https://drive.google.com/file/d/1PI2C8yuTIdaN8ce_6u0pIUFRCoU4Fd7D/view?usp=sharing
+
+->Struct topic
+->custom validation
+->Lazy loading
